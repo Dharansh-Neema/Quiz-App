@@ -38,3 +38,4 @@ const questions = [
     answer: "1. break",
   },
 ];
+module.exports = questions;
